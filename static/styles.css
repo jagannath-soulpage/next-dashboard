@@ -1,0 +1,34 @@
+.top-navbar {
+  background-color: white;
+  border-bottom: 1px solid #000;
+}
+.nav-link {
+  color: #000 !important;
+}
+.navbar-brand {
+  margin-left: 30px;
+}
+.sub-heading{
+  font-size: 20px;
+  font-weight: bold !important;
+}
+.has-search .form-control {
+  padding-left: 2.375rem;
+  border: none;
+}
+.has-search
+{
+  margin-left: 13%;
+}
+.has-search .form-control-feedback {
+  position: absolute;
+  z-index: 2;
+  display: block;
+  width: 2.375rem;
+  height: 2.375rem;
+  line-height: 2.375rem;
+  text-align: center;
+  pointer-events: none;
+  color: #aaa;
+  
+}
